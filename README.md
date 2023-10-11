@@ -7,7 +7,6 @@ A simple mobile application for shoe shopping developed using React Native.
 - Display a list of shoes with their brand, sizes, and cost.
 - Add shoes to the shopping cart.
 - Remove shoes from the shopping cart.
-- Navigate to the shopping cart screen.
 
 ## Getting Started
 
