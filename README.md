@@ -22,6 +22,13 @@ To run this project, you need to have the following software installed on your l
 - React Native CLI
 - Android Emulator (for Android) or Xcode (for iOS)
 
+### Installation
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/surajitofficial/shoecartApp
+
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
